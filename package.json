@@ -1,0 +1,24 @@
+{
+  "name": "food-festival",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paquito81/food-festival.git"
+  },
+  "keywords": [],
+  "author": "Hector Palacios <paquito1981@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Paquito81/food-festival/issues"
+  },
+  "homepage": "https://github.com/Paquito81/food-festival#readme",
+  "devDependencies": {
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  }
+}
